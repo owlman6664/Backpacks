@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Backpacks">
+    <output-path>$PROJECT_DIR$/out/artifacts/Backpacks</output-path>
+    <root id="archive" name="Backpacks.jar">
+      <element id="module-output" name="Backpacks" />
+    </root>
+  </artifact>
+</component>

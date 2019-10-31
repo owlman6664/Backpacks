@@ -1,0 +1,7 @@
+name: Backpack
+version: 2.2
+author: The_TadeSK
+main: me.tade.backpacks.Backpacks
+commands:
+  backpack:
+    aliases: [bp, backpacks, pack, back, bpack]
