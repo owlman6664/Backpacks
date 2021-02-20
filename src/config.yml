@@ -1,6 +1,6 @@
 backpacks:
   babypack:
-    size: 9
+    size: 30
     recipe:
     - 'CHEST CHEST CHEST'
     - 'CHEST COBBLESTONE CHEST'
